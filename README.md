@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @garkilic
-- 👀 I’m interested in frontend development.
-- 🌱 I’m currently learning PHP, React, and Bootstrap.
+- 👀 I’m interested in AL/ML and Cybersecurity.
+- 🌱 I’m currently learning React.
 - 💞️ I’m looking to collaborate on cool projects.
 - 📫 How to reach me garkilic@gmail.com
 
