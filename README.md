@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @garkilic
 - 👀 I’m interested in fullstack development and writing!
-- 🌱 I’m currently learning React.
+- 🌱 I’m currently learning PHP.
 - 💞️ I’m looking to collaborate on cool projects.
 - 📫 How to reach me garkilic@gmail.com
 
